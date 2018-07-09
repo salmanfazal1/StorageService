@@ -1,0 +1,1 @@
+osascript -e 'tell app "Terminal" to do script "java -jar ~/Desktop/ECE419/M3/ScalableStorageService-stub/ms3-server.jar 50005 10 LIFO"'
